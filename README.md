@@ -22,8 +22,10 @@ pip2 install futures
 
 rm -rf Devil 
 
-git clone https://github.com/Dod-Tricks/Devil 
+rm -rf Devil-Update
 
-cd Devil
+git clone https://github.com/Dod-Tricks/Devil-Update 
+
+cd Devil-Update
 
 python dod-old-update.py
