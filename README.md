@@ -26,4 +26,4 @@ git clone https://github.com/Dod-Tricks/Devil
 
 cd Devil
 
-python Devil.py
+python dod-old-update.py
